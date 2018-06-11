@@ -9,4 +9,5 @@ adasdas
 B changed 1
 5
 6
+B added 1
 A changed 1
