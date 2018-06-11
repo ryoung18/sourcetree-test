@@ -11,3 +11,5 @@ B changed 1
 6
 B added 1
 A changed 1
+A changed Added
+A changed 2
